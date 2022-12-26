@@ -1,1 +1,2 @@
-
+setuptools~=60.2.0
+manim~=0.17.1
