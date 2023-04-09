@@ -113,7 +113,3 @@ class TrigonoClock(Scene):
                 run_time=30
             )
         )
-
-
-if __name__ == '__main__':
-    __import__('os').system(f'manim --quality m {__file__}')
